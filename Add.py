@@ -8,4 +8,4 @@ import MathCal
 os.system('clear')
 
 
-MathCal.Addition(4,4)
+MathCal.Addition(4,5)

@@ -1,0 +1,26 @@
+		PYTHON:
+
+1.To Clear the Console
+
+Syntax: import os module
+	os.system('clear')
+
+
+		STRINGS:
+Strings Functions:
+ upper() ==> Put everything in UpperCase
+
+ lower() ==> Put everything in LowerCase
+
+ capitalize() ==> Capitalize the very first letter in your string
+ 
+title() ==> Capitalize the each very first letter of every single  word in your string
+
+ swapcase() ==> It makes everything the opposite of what it were.(If it was uppercase it turned lowercase and it was lowercase it turned uppercase)
+
+
+
+{:,}.format(variable)==> Used to seperate numbers 
+
+Eg:Number=1000000 
+	{:,}.format(Number) ==> 1,000,000
