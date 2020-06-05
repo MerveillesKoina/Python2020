@@ -26,7 +26,7 @@ num = 5
 options = 'Your body just shake my antenna. Long time you play games like cantana.'
 
 #Strings
-'''
+
 print('Using the Upper Function: '+name.upper())
 print('\nUsing the Title Function: '+options.title())
 print('\nUsing the Capitalize Function: '+options.capitalize())
@@ -69,7 +69,8 @@ MathOperations.AssignmentOp()
 
 
 ListExample.my_list()
-'''
-#DictionaryExample.my_dictionary()
 
+DictionaryExample.my_dictionary()
+
+print('\n')
 ModuleTuple.tuples_example()
