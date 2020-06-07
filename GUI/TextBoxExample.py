@@ -11,7 +11,7 @@ os.system('clear')
 
 root = Tk()
 
-root.title('TextBox')
+root.title('TextBox Example')
 
 entry = Entry(root,width=25)
 

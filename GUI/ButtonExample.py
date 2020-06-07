@@ -11,6 +11,7 @@ import os
 os.system('clear')
 
 root = Tk()
+root.title('Button Example')
 
 myButton = Button(root,text='Click Me!',pady=50)
 
